@@ -18,27 +18,38 @@ Data Analysis
 Through data clean up and preparation we determined the Aircraft Makes with the most frequency.
 Out of about 8000 Aircraft Makes we determined 15 of them contributed to about 70% of the incidents.
 We then further narrowed to five Aircraft Makes which comprise 60% of the incidents. Namely: Cessna,Piper,Beech,Bell & Boeing. And our analysis was based on these.
-![image](https://github.com/user-attachments/assets/4e67e1dd-4575-4a39-a61c-cfee51531203)
-![image](https://github.com/user-attachments/assets/e1edb588-50d4-4853-acdb-cfd72c44dc8b)
+
+
 ![image](https://github.com/user-attachments/assets/1bded8bd-0ce4-43be-a85f-455d3b339f23)
+
+
+
 ![image](https://github.com/user-attachments/assets/02ccead6-cf2d-4395-8889-a686757c18d7)
+
+
+
 Our initial data analysis yielded the two charts above which represent the contribution of the top five Aircraft Makes to incidents and fatal occurrences. Incidents are occurrences which did not result in fatalities while fatal occurrences resulted in fatalities.
 Our observation was that the Cessna Make was the main contributor to incidents and fatal occurrences but a lesser under fatal occurrences.
 For the Piper, Beech and Bell Make , these contributed higher degree to fatal occurrences versus their contribution to incidents. Their incidents are more likely to result in fatalities.
 Boeing , however, has a much lesser contribution to fatal occurrences.
-![image](https://github.com/user-attachments/assets/89b36afb-8bf2-4ef5-a8ad-4d4395d220d4)
+
+
 ![image](https://github.com/user-attachments/assets/82426726-ab5f-4ae6-9b25-52a6031733b3)
+
+
+
+
 We further analyzed the fatality numbers by Aircraft Make and the results were : Cessna 31%, Boeing 29%, Piper 22%, Beech 12% and Bell 4%. 
 Boeing’s contribution stood out because the Aircraft Make is one of the least contributors to incident and fatality occurrences. We concluded that Boeing’s fatalities are rare but high impact when they occur.
 After further analysis we determined that most fatal occurrences for Cessna, Beech and Piper Aircraft Makes occur during personal use but could not be determined for Boeing and Bell .
-![image](https://github.com/user-attachments/assets/1883e1fc-2f86-465b-82f7-7579c2798ddf)
+
 Recommendation.
 Based on the analysis above the Bell, Beech and Piper Aircraft Makes have a proportionately higher contribution to fatal occurrences. We would not recommend them because of a relatively higher air safety risk.
 We would need to gather more information on Boeing to confirm that the planes involved in the occurrences are medium or small planes.
 The recommended Aircraft Make would be Cessna which has a proportionately lower contribution to fatal occurrences. It would provide a reasonable level of air safety.
 This decision should be underpinned by industry market share data for the five makes so that the results can be weighted accordingly.
 In addition, management should also consider other criteria such as: purchase and maintenance cost, fuel efficiency and availability of original equipment manufacturer support. This will ensure the Airline is not only safe but profitable.
-  ![image](https://github.com/user-attachments/assets/6249ea02-cd5b-4d2e-aed4-bc93387e0906)
+
 
 
 
